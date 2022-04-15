@@ -1,0 +1,21 @@
+# python 3.8.6
+
+asgiref==3.5.0
+backports.zoneinfo==0.2.1
+Django==4.0.4
+django-cors-headers==3.11.0
+djangorestframework==3.13.1
+nodeenv==1.6.0
+optional-django==0.1.0
+psycopg2==2.9.3
+pytz==2022.1
+sqlparse==0.4.2
+tzdata==2022.1
+
+# node v16.0.0
+
+# # nodeenv package
+# corepack@0.10.0
+# create-react-app@5.0.1
+# npm@8.5.5
+# tar@6.1.11
