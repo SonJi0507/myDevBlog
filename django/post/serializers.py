@@ -1,9 +1,9 @@
 from rest_framework import serializers
-from .models import PostModel
+from .models import PostItem
 
 class PostSerializer(serializers.ModelSerializer):
     class Meta:
-        model = PostModel
+        model = PostItem
         fields = (
             'id',
             'title',
